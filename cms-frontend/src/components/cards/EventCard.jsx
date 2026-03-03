@@ -13,7 +13,8 @@ export default function EventCard({ item }) {
     return (
 
         <Link
-            to={`/events/${item._id}`}
+        key={item._id}
+            to={`/events/${item.slug}`}
             className="group block overflow-hidden  transition"
         >
 
