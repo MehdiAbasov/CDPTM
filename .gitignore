@@ -2,9 +2,7 @@
 # ENV files (IMPORTANT)
 # =========================
 .env
-.env.*
 */.env
-*/.env.*
 
 # =========================
 # Node modules
