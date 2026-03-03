@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+.container {
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+@keyframes partnersScroll {
+
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+
+}
+
+.animate-partners {
+    display: flex;
+    width: max-content;
+    animation: partnersScroll 20s linear infinite;
+}
+
+.animate-partners:hover {
+
+    animation-play-state: paused;
+}

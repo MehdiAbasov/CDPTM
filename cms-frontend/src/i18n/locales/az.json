@@ -1,0 +1,125 @@
+{
+   "common": {
+      "more": "Daha çox →"
+   },
+   "nav": {
+      "home": "Ana səhifə",
+      "about": "Haqqımızda",
+      "academic": "Akademik",
+      "education": "Təhsil imkanları",
+      "speciality": "İxtisaslar",
+      "admission": "Qəbul",
+      "career": "Karyera",
+      "campus": "Kampus",
+      "news": "Xəbərlər",
+      "events": "Tədbirlər",
+      "contact": "Əlaqə",
+      "programs": "Ixtisaslar"
+   },
+   "home": {
+      "heroTitle": "Cəlilabad Dövlət Peşə Təhsil Mərkəzi",
+      "heroText": "Uğurlu gələcək üçün ixtisaslı və peşəkar kadrların hazırlanması istiqamətində müasir təhsil imkanları təqdim edirik.",
+      "prgrmTxt": "Müəllim",
+      "stdTxt": "Tələbə",
+      "tchrText": "İxtisas",
+      "linkTxt1": "Məlumat al",
+      "linkTxt2": "İxtisaslar",
+      "news": {
+         "title": "Son Xəbərlər",
+         "subtitle": "Son Xəbərlər"
+      },
+      "events": {
+         "title": "Tədbirlər",
+         "subtitle": "Peşə təhsil mərkəzi tərəfindən keçirilən tədbirlər"
+      },
+      "programs": {
+         "title": "Təhsil Programları",
+         "subtitle": "Mərkəzimizdəki İxtisaslar"
+      },
+      "partners": {
+         "title": "partnyorlar",
+         "subtitle": "partnyorlarımız"
+      },
+      "social": {
+         "title": "Sosial media hesablarımız",
+         "subtitle": "Bizi sosial şəbəkələrdə izləməyi unutmayın"
+      },
+      "cta": {
+         "title": "Bizə Qatılın!",
+         "subtitle": "Sizdə bizə qatılın və gələcəyiniz güclü təhsillə təməlləndirin!",
+         "primary": "Bizə Qatıl!",
+         "secondary": "İxtisaslar"
+      }
+   },
+   "about": {
+      "title": "Haqqımızda",
+      "subtitle": "Peşə Təhsil Mərkəzi haqqında məlumat",
+      "introTitle": "Güclü gələcək üçün peşə təhsili",
+      "introText": "Mərkəzimiz müasir peşə təhsili sistemi ilə tələbələrə praktik bilik və bacarıqlar qazandırır.",
+      "whyTitle": "Niyə bizi seçməlisiniz?",
+      "why1Title": "Praktik təhsil",
+      "why1Text": "Real iş mühitinə uyğun tədris sistemi.",
+      "why2Title": "Peşəkar heyət",
+      "why2Text": "Təcrübəli və ixtisaslı müəllim heyəti.",
+      "why3Title": "Karyera imkanları",
+      "why3Text": "Geniş şirkət şəbəkəsi və iş imkanları.",
+      "missionTitle": "Missiyamız",
+      "missionText": "Peşəkar və rəqabətqabiliyyətli mütəxəssislər yetişdirmək.",
+      "visionTitle": "Vizyonumuz",
+      "visionText": "Regionun aparıcı peşə təhsil mərkəzi olmaq."
+   },
+   "academic": {
+      "title": "Akademik",
+      "subtitle": "Təhsil imkanlarımız",
+      "educationTitle": "Təhsil imkanları",
+      "educationText": "Mərkəzimiz müxtəlif peşə sahələri üzrə müasir və praktik yönümlü təhsil proqramları təqdim edir.",
+      "specialitiesTitle": "İxtisaslar",
+      "admissionTitle": "Qəbul qaydaları",
+      "admissionText": "Qəbul prosesi şəffaf və sadədir. Namizədlər sənədlərini təqdim etdikdən sonra müsahibə mərhələsindən keçirlər.",
+      "apply": "İndi müraciət et"
+   },
+   "news": {
+      "title": "Xəbərlər",
+      "subtitle": "Cəlilabad Dövlət Peşə Təhsil mərkəzi haqqında ən son xəbərlər"
+   },
+   "events": {
+      "title": "Tədbirlər",
+      "subtitle": "Mərkəzimizdə keçirilən tədbirlər",
+      "detailTitle": "Tədbir",
+      "other": "Digər tədbirlər"
+   },
+   "footer": {
+      "description": "Cəlilabad Dövlət Peşə Təhsil Mərkəzi",
+      "contact": "Əlaqə",
+      "quickLinks": "Keçidlər",
+      "academic": "Əlaqə"
+   },
+   "career": {
+      "title": "Karyera Mərkəzi",
+      "subtitle": "Şirkətlər və vakansiyalar",
+      "introTitle": "Karyera imkanları",
+      "introText": "Mərkəzimiz tələbələrin əmək bazarına inteqrasiyasını dəstəkləyir və geniş şirkət şəbəkəsi ilə əməkdaşlıq edir."
+   },
+   "contact": {
+      "title": "Əlaqə",
+      "subtitle": "Bizimlə əlaqə saxlayın",
+      "infoTitle": "Əlaqə məlumatları",
+      "addressTitle": "Ünvan",
+      "phoneTitle": "Telefon",
+      "emailTitle": "Email",
+      "formTitle": "Mesaj göndərin",
+      "name": "Adınız",
+      "email": "Email ünvanı",
+      "message": "Mesajınız",
+      "send": "Göndər"
+   },
+   "campus": {
+      "title": "Kampus",
+      "subtitle": "Təhsil mühitimiz",
+      "block1Title": "Müasir tədris mühiti",
+      "block1Text": "Kampusumuz müasir laboratoriyalar və praktik tədris otaqları ilə təchiz olunmuşdur.",
+      "block2Title": "Tələbə həyatı",
+      "block2Text": "Rahat və inkişaf yönümlü sosial mühit tələbələr üçün yaradılmışdır.",
+      "infrastructure": "İnfrastruktur"
+   }
+}

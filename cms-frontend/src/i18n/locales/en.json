@@ -1,0 +1,115 @@
+{
+   "common": {
+      "more": "View more →"
+   },
+   "nav": {
+      "home": "Home",
+      "about": "About",
+      "academic": "Academic",
+      "education": "Education",
+      "speciality": "Specialities",
+      "admission": "Admission",
+      "career": "Career",
+      "campus": "Campus",
+      "news": "News",
+      "events": "Events",
+      "contact": "contact",
+      "programs": "Programs"
+   },
+   "home": {
+      "heroTitle": "Jalilabad State Vocational Education Center",
+      "heroText": "We offer modern educational opportunities to prepare qualified and professional personnel for a successful future.",
+      "prgrmTxt": "Teachers",
+      "stdTxt": "Student",
+      "tchrText": "Speciality",
+      "linkTxt1": "Contact Us",
+      "linkTxt2": "Speciality",
+      "news": {
+         "title": "Latest News",
+         "subtitle": "Updates from our center"
+      },
+      "programs": {
+         "title": "Education Programs",
+         "subtitle": "Our vocational education opportunities"
+      },
+      "events": {
+         "title": "Events",
+         "subtitle": "Upcoming events"
+      },
+      "social": {
+         "title": "Our social media accounts",
+         "subtitle": "Follow our social media accounts"
+      }
+   },
+   "about": {
+      "title": "About Us",
+      "subtitle": "Learn more about our vocational education center",
+      "introTitle": "Vocational Education for a Strong Future",
+      "introText": "Our center provides modern vocational education that equips students with practical knowledge and professional skills aligned with real industry demands.",
+      "whyTitle": "Why Choose Us?",
+      "why1Title": "Practical Education",
+      "why1Text": "Industry-oriented training programs designed for real-world experience.",
+      "why2Title": "Professional Staff",
+      "why2Text": "Experienced and qualified instructors dedicated to student success.",
+      "why3Title": "Career Opportunities",
+      "why3Text": "Strong partnerships with companies offering real employment opportunities.",
+      "missionTitle": "Our Mission",
+      "missionText": "To develop skilled, competitive professionals equipped for the modern workforce.",
+      "visionTitle": "Our Vision",
+      "visionText": "To become a leading vocational education center in the region."
+   },
+   "news": {
+      "title": "News",
+      "subtitle": "Latest news about Jalilabad State Vocational Education Center"
+   },
+   "events": {
+      "title": "Events",
+      "subtitle": "Events organized by our center",
+      "detailTitle": "Event",
+      "other": "Other events"
+   },
+   "footer": {
+      "description": "Jalilabad State Vocational Education Center",
+      "quickLinks": "Links",
+      "contact": "Contact",
+      "academic": "Contact Us"
+   },
+   "academic": {
+      "title": "Academic",
+      "subtitle": "Our educational opportunities",
+      "educationTitle": "Educational Opportunities",
+      "educationText": "Our center offers modern and practice-oriented vocational programs in various professional fields.",
+      "specialitiesTitle": "Specialities",
+      "admissionTitle": "Admission Process",
+      "admissionText": "The admission process is transparent and simple. Candidates submit required documents and complete an interview stage.",
+      "apply": "Apply Now"
+   },
+   "career": {
+      "title": "Career Center",
+      "subtitle": "Companies and vacancies",
+      "introTitle": "Career Opportunities",
+      "introText": "Our center supports students’ integration into the labor market through strong partnerships with companies."
+   },
+   "contact": {
+      "title": "Contact",
+      "subtitle": "Contact Us",
+      "infoTitle": "Contact informations",
+      "addressTitle": "Adress",
+      "phoneTitle": "Phone",
+      "emailTitle": "Email",
+      "formTitle": "Send message",
+      "name": "Your Name",
+      "email": "Email Adress",
+      "message": "Message",
+      "send": "Send"
+   },
+   "campus": {
+      "title": "Campus",
+      "subtitle": "Our Center",
+      "block1Title": "Müasir tədris mühiti",
+      "block1Text": "Kampusumuz müasir laboratoriyalar və praktik tədris otaqları ilə təchiz olunmuşdur.",
+      "block2Title": "Tələbə həyatı",
+      "block2Text": "Rahat və inkişaf yönümlü sosial mühit tələbələr üçün yaradılmışdır.",
+      "infrastructure": "İnfrastruktur"
+   }
+}
