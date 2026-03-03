@@ -19,10 +19,10 @@ app.get("/", (req, res) => {
 });
 /* Security */
 app.use(cors({
-  origin: [
-    "http://localhost:5173",
-    "https://cdptm.netlify.app"
-  ]
+    origin: [
+        "http://localhost:5173",
+        "https://cdptm.netlify.app"
+    ]
 }));
 app.use(helmet());
 app.use((req, res, next) => {
