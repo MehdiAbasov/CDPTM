@@ -18,7 +18,12 @@ app.get("/", (req, res) => {
     res.send("CMS Backend API running 🚀");
 });
 /* Security */
-app.use(cors());
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://cdptm.netlify.app"
+  ]
+}));
 app.use(helmet());
 app.use((req, res, next) => {
 
