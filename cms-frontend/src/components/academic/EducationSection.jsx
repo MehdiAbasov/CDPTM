@@ -1,6 +1,5 @@
 import { useTranslation } from "react-i18next"
 import Container from "../layout/Container"
-import AcademicImage from "https://res.cloudinary.com/mehdi-abasov-official/video/upload/v1772565329/Video_Project_ucfpqm.mp4"
 export default function EducationSection() {
 
     const { t } = useTranslation()
@@ -31,12 +30,13 @@ export default function EducationSection() {
                         <div className="absolute -bottom-6 -right-6 w-full h-full border-4 border-[#FFD60A] rounded-xl"></div>
 
                         <video
-                            src={AcademicImage}
                             loop
                             autoPlay
                             muted
                             className="relative rounded-xl shadow-xl object-cover w-full h-104"
-                        />
+                        >
+                            <source src="https://res.cloudinary.com/mehdi-abasov-official/video/upload/v1772565329/Video_Project_ucfpqm.mp4" type="video/mp4" />
+                        </video >
 
                     </div>
 

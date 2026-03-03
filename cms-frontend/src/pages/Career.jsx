@@ -3,7 +3,6 @@ import CareerIntro from "../components/career/CareerIntro"
 import CompanyNetwork from "../components/career/CompanyNetwork.jsx"
 import VacancySection from "../components/career/VacancySection"
 import SkillsSection from "../components/career/SkillsSection"
-import CTA from "../components/home/CTA"
 
 export default function Career() {
 

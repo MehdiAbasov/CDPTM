@@ -16,7 +16,8 @@ export default function Hero() {
                 loop
                 className="absolute w-full h-full object-cover inset-0"
             >
-                <source src="https://res.cloudinary.com/mehdi-abasov-official/video/upload/v1772565329/Video_Project_ucfpqm.mp4" />
+                <source src="https://res.cloudinary.com/mehdi-abasov-official/video/upload/v1772565329/Video_Project_ucfpqm.mp4"
+                    type="video/mp4" />
             </video>
 
             <div className="absolute inset-0 bg-linear-to-r from-[#020617e6] via-[#020617cc] to-transparent"></div>
