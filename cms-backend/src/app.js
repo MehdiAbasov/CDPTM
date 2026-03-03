@@ -22,7 +22,8 @@ app.use(cors({
     origin: [
         "http://localhost:5173",
         "https://cdptm.netlify.app"
-    ]
+    ],
+    credentials: true
 }));
 app.use(helmet());
 app.use((req, res, next) => {
